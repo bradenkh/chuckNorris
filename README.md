@@ -1,4 +1,4 @@
-# The Chcuk Norris app
+# The Chuck Norris app
 This app gets a Chuck Norris Joke from an API and displays it to the user.
 To be honest the jokes are not that funny, but I wasn't willing to pay for the api that came with funny ones.
 
